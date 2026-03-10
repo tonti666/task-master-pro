@@ -1,0 +1,42 @@
+Core Project & Task Management
+Comprehensive Task Creation: Create tasks with detailed attributes like name, rich-text description, client, assignee, work category, status, and due date.
+Advanced Views: Visualize your work in multiple ways:
+List View: A classic, filterable list of tasks grouped by status.
+Kanban Board View: A drag-and-drop interface to easily change a task's status by moving it between columns.
+Calendar View: A monthly calendar that displays all tasks with due dates.
+Time Tracking: Each task has a built-in time tracker with a stopwatch, and time can also be entered manually.
+Customization: Admins can create and manage custom:
+Work Categories: Define the types of services you offer (e.g., 'Google PPC', 'Content Creation').
+Task Statuses: Customize your workflow with unique, color-coded statuses (e.g., 'To Do', 'Waiting', 'Completed').
+AI-Powered Features (via Gemini API)
+AI Task Assistant: When creating a task, the "Suggest" button uses AI to analyze the task title and automatically generate a detailed description, suggest the correct work category, and estimate the time required.
+AI Ad Copy Generator: A powerful, dedicated tool to generate high-quality advertising copy.
+Multi-Platform: Creates copy specifically for Google Ads or Facebook Ads, adhering to their unique rules.
+Rich Configuration: Tailor the output by defining the product, target audience, language, tone (e.g., 'professional', 'funny'), and formality.
+Image-to-Text: Can analyze an uploaded image (like a product photo) to generate contextually relevant ad copy.
+Team & Client Collaboration
+Centralized Client Hub (CRM): Manage all client information, including contact details, assigned team members, subscribed services, and key budget information.
+Role-Based Permissions: Features an 'Admin' and 'Coworker' role, where Admins have full access to settings, reports, and sensitive client data.
+Team Chat: A built-in, real-time messaging system with public channels and private direct messages (DMs). Includes unread message indicators and audio notifications.
+Task Comments & Mentions: Collaborate directly on tasks through a comment thread. Use @ to mention teammates and send them a notification.
+Notifications: An in-app panel alerts users to new task assignments and mentions.
+Broadcast Announcements: Admins can post announcements to the entire team or target specific groups (e.g., only the 'PPC' team).
+Document & Reporting
+Document Management: A simple file system to create text documents or upload files. Items can be organized into folders.
+Password-Protected Documents: Admins can lock any file or folder with a password for an extra layer of security.
+Personalized Dashboard: A landing page for each user summarizing their most important information: overdue tasks, tasks due today, and recent announcements.
+CSV Export: Admins can generate and download a detailed report of all tasks, including tracked time and calculated labor costs based on team member hourly rates.
+General App Experience
+Secure Authentication: A polished login screen with a "Remember Me" option to stay logged in.
+Data Persistence: Your data is automatically saved in the browser, so you can close the tab and pick up right where you left off.
+Modern, Dark-Themed UI: A clean, responsive, and aesthetically pleasing interface designed for productivity.
+
+Github email: hello@suhajdatamas.hu
+
+admin only:
+client hozzáadás, szerkesztés
+client admin info - monthly payment, montly plabor cost, private notes
+team member hozzáadás, szerkesztés - kivéve ha magát akarja szerkeszteni
+document törlés, jelszóval védés
+broadcast  message - egész panel
+settings - egész panel
